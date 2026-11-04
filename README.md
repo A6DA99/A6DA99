@@ -11,7 +11,7 @@
 
 ### 🚀 About me
 
-- 🔐 Building **protocol & memory analysis frameworks** for network traffic inspection, packet decryption and digital forensics
+- 🔐 Built **protocol & memory analysis frameworks** for network traffic inspection, packet decryption and digital forensics
 - ☁️ Designed **end-to-end Azure IoT pipelines** — IoT Central → Event Hub → Stream Analytics → Power BI
 - 🐳 Shipped **Flask microservices** with Docker & Kubernetes, monitored with Grafana
 - 🕷️ Built large-scale **data mining pipelines** with Scrapy, Selenium and Python schedulers
