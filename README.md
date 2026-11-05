@@ -56,24 +56,6 @@
 ![Scapy](https://img.shields.io/badge/Scapy-1F6FEB?style=for-the-badge&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### 💼 Experience
-
-| Role | Company | Period |
-|---|---|---|
-| Python Developer | Ariventa Solutions Pvt. Ltd. | 2025 – Present |
-| Python Developer | Alexis Data Solutions Inc. (Remote, Canada) | 2023 – 2025 |
-| Junior Data Mining Engineer | KYC@2020 | 2021 – 2022 |
-| Data Operations (AI/ML) | Vidooly | 2020 |
-
-### 📂 Featured repositories
-
-| Project | What it does |
-|---|---|
-| [Intruder Detection System](https://github.com/A6DA99/Intruder_Detection-System-In-No-PhotoGraphy-Zone-using-MachineLearning) | ML-based intruder detection for no-photography zones |
-| [FileEncryption-Decryption](https://github.com/A6DA99/FileEncryption-Decryption) | Simple file encryption & decryption in Python |
-| [Natural-Language-Processing](https://github.com/A6DA99/Natural-Language-Processing) | NLP experiments and notes |
-| [Image-Processing](https://github.com/A6DA99/Image-Processing) | Image processing with Python |
-
 ---
 
 <p align="center"><i>Always happy to talk Python, networks, IoT — or rockets. 🚀</i></p>
